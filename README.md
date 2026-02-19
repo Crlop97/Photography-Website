@@ -1,3 +1,7 @@
+# Photograghy Website
+A simple photography website using HTML, CSS, and Javascript.
+
+
 # TypeWriting
 
 TypeWriting is a tiny lightweight JavaScript plugin for adding nice, customizable Typewriting effect using custom HTML5 attributes. This plugin is written in native JavaScript ES6 and does not requires any dependencies!
